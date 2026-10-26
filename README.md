@@ -162,11 +162,14 @@ Edite `data/plan.json` (campos `date`, `display`, `weekday`, `week`, `phase`, `s
 ## Testes
 
 ```bash
-npm test        # 27 testes: store (pg-mem), API HTTP, FileStore e front-end (jsdom)
+npm test        # 34 testes: paridade de conteúdo, store (pg-mem), API HTTP, FileStore e front-end (jsdom)
 npm run check   # checagem de sintaxe dos arquivos JS
 ```
 
-Os testes do Postgres usam `pg-mem` (um Postgres em memória) com o mesmo SQL do Neon: seed idempotente, marcação/desmarcação, importação, limpeza de sessões obsoletas e health check. Os testes de front-end montam a página real em jsdom e exercitam busca, filtros, marcação e migração do `localStorage`.
+- **Paridade de conteúdo** (`test/content-parity.test.js`): compara `data/plan.json` e a página renderizada com o HTML original guardado em `test/fixtures/plano_original_v2.html` — 139 sessões (data, dia da semana, matéria, tarefa), 11 grupos do checklist, texto fixo e CSS. É a garantia de que nada do plano se perdeu na migração.
+- **Postgres** (`test/store.test.js`): `pg-mem`, um Postgres em memória, rodando o mesmo SQL do Neon — seed idempotente, marcação/desmarcação, importação, limpeza de sessões obsoletas e health check. (O SQL também foi validado em PostgreSQL real via PGlite durante o desenvolvimento.)
+- **API HTTP** (`test/api.test.js`): rotas, validações, importação, Basic Auth e arquivos estáticos.
+- **Front-end** (`test/frontend.test.js`): monta a página real em jsdom e exercita busca, filtros, marcação, erro de rede e migração do `localStorage`.
 
 ## Solução de problemas
 

@@ -30,7 +30,7 @@ h2{font-size:1.25rem;margin:0 0 10px}h3{font-size:1.05rem;margin:0 0 6px}.muted{
 
 
 /* --- v3: progresso sincronizado com o banco de dados --- */
-.eyebrow{text-transform:uppercase;letter-spacing:.12em;font-size:.78rem;font-weight:700;margin:0 0 10px}
+.eyebrow{text-transform:uppercase;letter-spacing:.12em;font-size:.78rem;font-weight:700}
 .sync{display:flex;align-items:center;gap:8px;font-size:.88rem;margin:10px 0 0;color:var(--muted)}
 .sync .dot{width:9px;height:9px;border-radius:50%;flex:0 0 9px;background:#8b97a8;box-shadow:0 0 0 3px #8b97a81a}
 .sync[data-state="saved"]{color:var(--green)}.sync[data-state="saved"] .dot{background:var(--green);box-shadow:0 0 0 3px #16704a1f}
