@@ -1,0 +1,23 @@
+# Blueprint do Render — https://render.com/docs/blueprint-spec
+# Suba este arquivo no repositório e use "New > Blueprint" no Render.
+# A variável DATABASE_URL é pedida no momento da criação (sync: false):
+# cole a connection string do Neon ("Pooled connection", com ?sslmode=require).
+services:
+  - type: web
+    name: plano-estudos-tjsp
+    runtime: node
+    plan: free
+    region: ohio
+    branch: main
+    buildCommand: npm ci --omit=dev
+    startCommand: npm start
+    healthCheckPath: /healthz
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: NODE_ENV
+        value: production
+      - key: PGPOOL_MAX
+        value: "5"
+      - key: DATABASE_URL
+        sync: false

@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Plano de Estudos TJSP — Oficial de Justiça</title>
+<meta name="description" content="Plano diário de estudos para o concurso de Oficial de Justiça do TJSP (VUNESP), de 26/10/2026 a 13/03/2027, com progresso salvo no banco de dados.">
+<meta name="theme-color" content="#142c43">
+<meta name="robots" content="noindex">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23142c43'/%3E%3Cpath d='M16 42V22h5v15h9v5zm20 0V22h5v15h9v5z' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <p class="eyebrow">Plano de preparação • VUNESP</p>
+    <h1>Oficial de Justiça — TJSP 2026</h1>
+    <p>Plano diário de 26/10/2026 a 13/03/2027, com 1 hora por dia, todos os dias, baseado no conteúdo programático do Anexo VIII do edital.</p>
+    <div class="metrics">
+      <div class="metric"><b>139 horas</b><span>139 sessões de estudo</span></div>
+      <div class="metric"><b>7 dias/semana</b><span>Domingo = revisão, discursiva ou mini-simulado</span></div>
+      <div class="metric"><b>70 questões</b><span>Prova objetiva</span></div>
+      <div class="metric"><b>14/03/2027</b><span>Data prevista da prova</span></div>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div id="banner" class="banner" role="status" aria-live="polite" hidden></div>
+
+  <section class="panel">
+    <h2>Como usar este plano</h2>
+    <p>Em cada sessão de 60 minutos, use como referência: <strong>5 min</strong> de revisão ativa, <strong>30 min</strong> para o tópico indicado, <strong>20 min</strong> para questões de provas anteriores da VUNESP e <strong>5 min</strong> para registrar erros. Sessões marcadas com ★ são o núcleo do cargo (citação, intimação, penhora, avaliação, prisão, Normas Cap. VII): priorize-as. Domingos: revisão semanal (semanas 1–7), discursiva à mão (8–14) e mini-simulado/discursiva (15–19).</p>
+
+    <div class="notice">
+      <strong>Importante:</strong> a prova está prevista para 14/03/2027; confira eventuais retificações no site oficial. Para legislação e Normas da Corregedoria, considere as alterações vigentes até a publicação do edital e observe a ressalva do próprio edital sobre legislação superveniente ou complementar. A distribuição diária é uma proposta de estudo, não uma previsão de incidência das questões. Versão 2: começa em 26/10, cobre todos os dispositivos do Anexo VIII, dá mais tempo ao núcleo do cargo e treina discursiva toda semana a partir da semana 8. Faça 10 min de notícias por semana para Atualidades.
+    </div>
+
+    <div class="progressbar" role="progressbar" aria-labelledby="progressText" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+      <div id="progress"></div>
+    </div>
+    <p id="progressText" class="muted">0 de 139 sessões concluídas (0%). Progresso salvo no banco de dados e sincronizado entre dispositivos.</p>
+    <p id="syncStatus" class="sync" data-state="loading" role="status" aria-live="polite">
+      <span class="dot" aria-hidden="true"></span><span id="syncText">Conectando ao servidor…</span>
+    </p>
+
+    <div class="actions">
+      <button id="printBtn" class="primary" type="button">Imprimir / salvar em PDF</button>
+      <button id="exportBtn" type="button">Exportar progresso</button>
+      <button id="importBtn" type="button">Importar progresso</button>
+      <button id="clearBtn" class="ghost" type="button">Zerar marcações</button>
+      <input id="importFile" type="file" accept="application/json,.json" hidden>
+    </div>
+    <p class="storage">Armazenamento: <span id="storageBadge" class="badge">verificando…</span></p>
+  </section>
+
+  <section class="panel">
+    <h2>Encontrar uma sessão</h2>
+    <div class="controls">
+      <input id="search" type="search" placeholder="Buscar matéria, artigo ou tópico..." aria-label="Buscar no plano">
+      <select id="phaseFilter" aria-label="Filtrar fase"><option value="">Todas as fases</option></select>
+      <select id="statusFilter" aria-label="Filtrar status">
+        <option value="">Todas as sessões</option>
+        <option value="pending">Pendentes</option>
+        <option value="done">Concluídas</option>
+      </select>
+    </div>
+    <p class="muted">Marque cada sessão concluída. Use a busca para localizar artigos, leis, matérias ou temas específicos.</p>
+  </section>
+
+  <div id="schedule" aria-live="polite">
+    <section class="panel"><p class="muted">Carregando o calendário…</p></section>
+  </div>
+
+  <section class="panel syllabus">
+    <h2>Checklist de cobertura do edital — Anexo VIII</h2>
+    <p class="muted">Auditoria do conteúdo: os tópicos e intervalos de artigos abaixo foram conferidos contra o Anexo VIII. Use este checklist junto com o calendário: alguns dispositivos extensos são estudados em blocos e retomados nas revisões.</p>
+    <div id="syllabus"></div>
+  </section>
+
+  <section class="panel">
+    <h2>Estratégia de revisão e desempenho</h2>
+    <ul>
+      <li>Registre cada erro: assunto, motivo e regra/artigo correto.</li>
+      <li>Na sessão seguinte, tente recuperar o conteúdo sem consultar o material.</li>
+      <li>Na semana seguinte, refaça questões dos assuntos estudados e revise erros persistentes.</li>
+      <li>Os cortes são por classificação, não por nota fixa: 50% por bloco só evita eliminação. Abaixo de 70%: retome o assunto; 70%–84%: mais questões; 85% ou mais: revisão espaçada. São metas de estudo; calibre com a nota de corte do último concurso no site da VUNESP.</li>
+      <li>Treine a prova discursiva desde o início. O edital prevê duas questões sobre Conhecimentos Específicos, de caráter eliminatório.</li>
+    </ul>
+    <p class="footer">Base: Edital de Abertura nº 01/2026 — TJSP/VUNESP, especialmente Anexo VIII e capítulo das provas. Confira a legislação e Normas da Corregedoria em fontes oficiais. Versão 3: progresso gravado no PostgreSQL (Neon) e sincronizado entre dispositivos.</p>
+  </section>
+</main>
+
+<noscript>
+  <p class="panel">Este plano precisa de JavaScript para exibir o calendário e salvar o progresso.</p>
+</noscript>
+
+<script src="./app.js" defer></script>
+</body>
+</html>
