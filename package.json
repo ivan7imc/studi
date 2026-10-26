@@ -1,0 +1,26 @@
+{
+  "name": "plano-estudos-tjsp",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Plano de estudos TJSP — Oficial de Justiça, com progresso persistido em PostgreSQL (Neon) e pronto para rodar no Render.",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=20.11"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test test/*.test.js",
+    "check": "node --check src/index.js && node --check src/app.js && node --check src/db.js && node --check src/store.js && node --check src/env.js && node --check public/app.js && node --check scripts/db-check.js",
+    "db:check": "node scripts/db-check.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
+  },
+  "devDependencies": {
+    "jsdom": "^30.1.3",
+    "pg-mem": "^3.0.14"
+  }
+}

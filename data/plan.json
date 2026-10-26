@@ -1,0 +1,1344 @@
+{
+  "planId": "tjsp-oficial-justica-2026-v2",
+  "title": "Plano de Estudos TJSP — Oficial de Justiça",
+  "subtitle": "Plano diário de 26/10/2026 a 13/03/2027, com 1 hora por dia, baseado no Anexo VIII do edital.",
+  "sessions": [
+    {
+      "date": "2026-10-26",
+      "display": "26/10/2026",
+      "weekday": "segunda-feira",
+      "week": 1,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Diagnóstico",
+      "task": "35 questões mistas sem consulta (8 Português, 20 Específicos, 7 Gerais). Crie o caderno de erros e anote o aproveitamento por bloco; 50% por bloco é só o piso eliminatório."
+    },
+    {
+      "date": "2026-10-27",
+      "display": "27/10/2026",
+      "weekday": "terça-feira",
+      "week": 1,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Civil",
+      "task": "CPC arts. 1º–11 e 13–18: normas fundamentais e aplicação das normas processuais."
+    },
+    {
+      "date": "2026-10-28",
+      "display": "28/10/2026",
+      "weekday": "quarta-feira",
+      "week": 1,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Penal",
+      "task": "CPP arts. 24–42: ação penal."
+    },
+    {
+      "date": "2026-10-29",
+      "display": "29/10/2026",
+      "weekday": "quinta-feira",
+      "week": 1,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Língua Portuguesa",
+      "task": "Interpretação de textos verbais e não verbais; informações literais, inferências, ponto de vista do autor."
+    },
+    {
+      "date": "2026-10-30",
+      "display": "30/10/2026",
+      "weekday": "sexta-feira",
+      "week": 1,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Penal",
+      "task": "CP arts. 1º–12."
+    },
+    {
+      "date": "2026-10-31",
+      "display": "31/10/2026",
+      "weekday": "sábado",
+      "week": 1,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Normas da Corregedoria",
+      "task": "Tomo I: Cap. I, arts. 1º–4º; Cap. III, art. 33, arts. 47 e 49, arts. 105–110."
+    },
+    {
+      "date": "2026-11-01",
+      "display": "01/11/2026",
+      "weekday": "domingo",
+      "week": 1,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Revisão semanal",
+      "task": "Refaça sem consulta os tópicos da semana; 20 questões mistas de toda a matéria já vista; atualize o caderno de erros."
+    },
+    {
+      "date": "2026-11-02",
+      "display": "02/11/2026",
+      "weekday": "segunda-feira",
+      "week": 2,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Civil",
+      "task": "CC arts. 1º–25: pessoa natural, capacidade, direitos da personalidade, ausência."
+    },
+    {
+      "date": "2026-11-03",
+      "display": "03/11/2026",
+      "weekday": "terça-feira",
+      "week": 2,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Civil",
+      "task": "CPC arts. 21–27, 36 e 42–53: limites da jurisdição, cooperação, jurisdição e competência."
+    },
+    {
+      "date": "2026-11-04",
+      "display": "04/11/2026",
+      "weekday": "quarta-feira",
+      "week": 2,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Constitucional",
+      "task": "CF arts. 1º–4º."
+    },
+    {
+      "date": "2026-11-05",
+      "display": "05/11/2026",
+      "weekday": "quinta-feira",
+      "week": 2,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Penal",
+      "task": "CPP arts. 61–74: competência (lugar, prevenção, conexão)."
+    },
+    {
+      "date": "2026-11-06",
+      "display": "06/11/2026",
+      "weekday": "sexta-feira",
+      "week": 2,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Legislação Especial",
+      "task": "Lei 6.830/1980: arts. 1º, 2º, 7º, 8º, 11 e 37."
+    },
+    {
+      "date": "2026-11-07",
+      "display": "07/11/2026",
+      "weekday": "sábado",
+      "week": 2,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Civil",
+      "task": "CPC arts. 64–66 e 70–76: incompetência e conflito; capacidade processual."
+    },
+    {
+      "date": "2026-11-08",
+      "display": "08/11/2026",
+      "weekday": "domingo",
+      "week": 2,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Revisão semanal",
+      "task": "Refaça sem consulta os tópicos da semana; 20 questões mistas de toda a matéria já vista; atualize o caderno de erros."
+    },
+    {
+      "date": "2026-11-09",
+      "display": "09/11/2026",
+      "weekday": "segunda-feira",
+      "week": 3,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Administrativo",
+      "task": "Lei estadual 10.261/1968: arts. 1º, 3º, 4º, 11, 13, 14, 46 e 47."
+    },
+    {
+      "date": "2026-11-10",
+      "display": "10/11/2026",
+      "weekday": "terça-feira",
+      "week": 3,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Penal",
+      "task": "CP arts. 100–106 (ação penal) e 121 (homicídio)."
+    },
+    {
+      "date": "2026-11-11",
+      "display": "11/11/2026",
+      "weekday": "quarta-feira",
+      "week": 3,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Civil",
+      "task": "CC arts. 40–45, 49–50, 53, 62 e 70–78: pessoas jurídicas e domicílio."
+    },
+    {
+      "date": "2026-11-12",
+      "display": "12/11/2026",
+      "weekday": "quinta-feira",
+      "week": 3,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Penal",
+      "task": "CPP arts. 112, 125–131, 156 e 185: impedimento de serventuários, sequestro, prova, interrogatório."
+    },
+    {
+      "date": "2026-11-13",
+      "display": "13/11/2026",
+      "weekday": "sexta-feira",
+      "week": 3,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Civil",
+      "task": "CPC arts. 77–85, 98–102 e 110–111: deveres das partes, despesas e honorários, gratuidade, sucessão."
+    },
+    {
+      "date": "2026-11-14",
+      "display": "14/11/2026",
+      "weekday": "sábado",
+      "week": 3,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Língua Portuguesa",
+      "task": "Estruturação do texto e coesão; significação contextual; sinônimos e antônimos; sentido próprio e figurado."
+    },
+    {
+      "date": "2026-11-15",
+      "display": "15/11/2026",
+      "weekday": "domingo",
+      "week": 3,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Revisão semanal",
+      "task": "Refaça sem consulta os tópicos da semana; 20 questões mistas de toda a matéria já vista; atualize o caderno de erros."
+    },
+    {
+      "date": "2026-11-16",
+      "display": "16/11/2026",
+      "weekday": "segunda-feira",
+      "week": 4,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Normas da Corregedoria",
+      "task": "Tomo I, Cap. IV: art. 196, XX; 282, §1º; 310 e 315; 410; 436 e 436-A; 439, 440 e 440-A."
+    },
+    {
+      "date": "2026-11-17",
+      "display": "17/11/2026",
+      "weekday": "terça-feira",
+      "week": 4,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Informática",
+      "task": "Windows 10+ (pastas, arquivos, atalhos, área de transferência) e integração com Microsoft 365."
+    },
+    {
+      "date": "2026-11-18",
+      "display": "18/11/2026",
+      "weekday": "quarta-feira",
+      "week": 4,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Civil",
+      "task": "CPC arts. 125–135: intervenção de terceiros e desconsideração da personalidade jurídica."
+    },
+    {
+      "date": "2026-11-19",
+      "display": "19/11/2026",
+      "weekday": "quinta-feira",
+      "week": 4,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Penal",
+      "task": "CPP arts. 202–204 e 218–225: testemunhas."
+    },
+    {
+      "date": "2026-11-20",
+      "display": "20/11/2026",
+      "weekday": "sexta-feira",
+      "week": 4,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Constitucional",
+      "task": "CF art. 5º, incisos I–XXXV."
+    },
+    {
+      "date": "2026-11-21",
+      "display": "21/11/2026",
+      "weekday": "sábado",
+      "week": 4,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Civil",
+      "task": "CC arts. 79–103: bens."
+    },
+    {
+      "date": "2026-11-22",
+      "display": "22/11/2026",
+      "weekday": "domingo",
+      "week": 4,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Revisão semanal",
+      "task": "Refaça sem consulta os tópicos da semana; 20 questões mistas de toda a matéria já vista; atualize o caderno de erros."
+    },
+    {
+      "date": "2026-11-23",
+      "display": "23/11/2026",
+      "weekday": "segunda-feira",
+      "week": 5,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Penal",
+      "task": "CP arts. 107–120: extinção da punibilidade."
+    },
+    {
+      "date": "2026-11-24",
+      "display": "24/11/2026",
+      "weekday": "terça-feira",
+      "week": 5,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Matemática",
+      "task": "Operações com reais; MMC e MDC; razão e proporção; porcentagem."
+    },
+    {
+      "date": "2026-11-25",
+      "display": "25/11/2026",
+      "weekday": "quarta-feira",
+      "week": 5,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Raciocínio Lógico",
+      "task": "Relações arbitrárias entre pessoas, lugares e eventos; dedução de informações."
+    },
+    {
+      "date": "2026-11-26",
+      "display": "26/11/2026",
+      "weekday": "quinta-feira",
+      "week": 5,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Civil",
+      "task": "★ CPC arts. 139–143: poderes, deveres e responsabilidade do juiz."
+    },
+    {
+      "date": "2026-11-27",
+      "display": "27/11/2026",
+      "weekday": "sexta-feira",
+      "week": 5,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Penal",
+      "task": "★ CPP arts. 240–250 e 274: busca e apreensão; suspeição estendida aos funcionários da justiça (art. 274)."
+    },
+    {
+      "date": "2026-11-28",
+      "display": "28/11/2026",
+      "weekday": "sábado",
+      "week": 5,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Normas da Corregedoria",
+      "task": "★ Tomo I, Cap. VII (Dos Oficiais de Justiça), arts. 994–1.015."
+    },
+    {
+      "date": "2026-11-29",
+      "display": "29/11/2026",
+      "weekday": "domingo",
+      "week": 5,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Revisão semanal",
+      "task": "Refaça sem consulta os tópicos da semana; 20 questões mistas de toda a matéria já vista; atualize o caderno de erros."
+    },
+    {
+      "date": "2026-11-30",
+      "display": "30/11/2026",
+      "weekday": "segunda-feira",
+      "week": 6,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Civil",
+      "task": "★ CPC arts. 149–155 e 159–161: auxiliares da Justiça; deveres e responsabilidade do oficial de justiça (arts. 154–155); depósito."
+    },
+    {
+      "date": "2026-12-01",
+      "display": "01/12/2026",
+      "weekday": "terça-feira",
+      "week": 6,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Língua Portuguesa",
+      "task": "Classes de palavras I: substantivo, adjetivo, artigo, numeral e pronome."
+    },
+    {
+      "date": "2026-12-02",
+      "display": "02/12/2026",
+      "weekday": "quarta-feira",
+      "week": 6,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Civil",
+      "task": "CC arts. 115–120 e 138–150: representação; erro, dolo, coação."
+    },
+    {
+      "date": "2026-12-03",
+      "display": "03/12/2026",
+      "weekday": "quinta-feira",
+      "week": 6,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Legislação Especial",
+      "task": "Resolução CNJ 354/2020: arts. 1º e 8º–10."
+    },
+    {
+      "date": "2026-12-04",
+      "display": "04/12/2026",
+      "weekday": "sexta-feira",
+      "week": 6,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Penal",
+      "task": "CP arts. 129, 150, 154 e 293–297: lesão corporal, violação de domicílio e de segredo; falsidades documentais."
+    },
+    {
+      "date": "2026-12-05",
+      "display": "05/12/2026",
+      "weekday": "sábado",
+      "week": 6,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Penal",
+      "task": "★ CPP arts. 283–300: prisão: mandado, execução, resistência, prisão especial."
+    },
+    {
+      "date": "2026-12-06",
+      "display": "06/12/2026",
+      "weekday": "domingo",
+      "week": 6,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Revisão semanal",
+      "task": "Refaça sem consulta os tópicos da semana; 20 questões mistas de toda a matéria já vista; atualize o caderno de erros."
+    },
+    {
+      "date": "2026-12-07",
+      "display": "07/12/2026",
+      "weekday": "segunda-feira",
+      "week": 7,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Civil",
+      "task": "CPC arts. 176–187: Ministério Público, Advocacia Pública e Defensoria Pública."
+    },
+    {
+      "date": "2026-12-08",
+      "display": "08/12/2026",
+      "weekday": "terça-feira",
+      "week": 7,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Constitucional",
+      "task": "CF art. 5º, incisos XXXVI–LXXVIII (domicílio, XI; prisão, LXI–LXVI)."
+    },
+    {
+      "date": "2026-12-09",
+      "display": "09/12/2026",
+      "weekday": "quarta-feira",
+      "week": 7,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Atualidades + LBI",
+      "task": "Lei 13.146/2015 (LBI): arts. 1º–13 e 34–38."
+    },
+    {
+      "date": "2026-12-10",
+      "display": "10/12/2026",
+      "weekday": "quinta-feira",
+      "week": 7,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Civil",
+      "task": "CC arts. 151–159 e 166–184: estado de perigo, lesão, fraude; nulidade e anulabilidade."
+    },
+    {
+      "date": "2026-12-11",
+      "display": "11/12/2026",
+      "weekday": "sexta-feira",
+      "week": 7,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Civil",
+      "task": "CPC arts. 188–199 e 203–211: forma dos atos, pronunciamentos judiciais, atos em geral."
+    },
+    {
+      "date": "2026-12-12",
+      "display": "12/12/2026",
+      "weekday": "sábado",
+      "week": 7,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Informática",
+      "task": "MS Word: edição, formatação, tabelas, quebras, numeração, legendas, índices, campos, caixas de texto."
+    },
+    {
+      "date": "2026-12-13",
+      "display": "13/12/2026",
+      "weekday": "domingo",
+      "week": 7,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Revisão semanal",
+      "task": "Refaça sem consulta os tópicos da semana; 20 questões mistas de toda a matéria já vista; atualize o caderno de erros."
+    },
+    {
+      "date": "2026-12-14",
+      "display": "14/12/2026",
+      "weekday": "segunda-feira",
+      "week": 8,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Normas da Corregedoria",
+      "task": "★ Tomo I, Cap. VII, arts. 1.016–1.040."
+    },
+    {
+      "date": "2026-12-15",
+      "display": "15/12/2026",
+      "weekday": "terça-feira",
+      "week": 8,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Penal",
+      "task": "★ CPP arts. 301–303 (flagrante), 370–372 (intimação), 396–396-A e 406 (resposta à acusação e procedimento do júri)."
+    },
+    {
+      "date": "2026-12-16",
+      "display": "16/12/2026",
+      "weekday": "quarta-feira",
+      "week": 8,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Administrativo",
+      "task": "Lei estadual 10.261/1968: arts. 57, 78, 110, 120, 127 e 176."
+    },
+    {
+      "date": "2026-12-17",
+      "display": "17/12/2026",
+      "weekday": "quinta-feira",
+      "week": 8,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Penal",
+      "task": "CP arts. 298–305, 307 e 308: falsidade documental, falsa identidade, uso de documento alheio."
+    },
+    {
+      "date": "2026-12-18",
+      "display": "18/12/2026",
+      "weekday": "sexta-feira",
+      "week": 8,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Civil",
+      "task": "CPC arts. 212–235: tempo e lugar dos atos; prazos (contagem, dias úteis, verificação)."
+    },
+    {
+      "date": "2026-12-19",
+      "display": "19/12/2026",
+      "weekday": "sábado",
+      "week": 8,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Língua Portuguesa",
+      "task": "Classes de palavras II: verbo, advérbio, preposição e conjunção."
+    },
+    {
+      "date": "2026-12-20",
+      "display": "20/12/2026",
+      "weekday": "domingo",
+      "week": 8,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Discursiva",
+      "task": "Responda 1 questão sobre citação por hora certa e por edital (CPC 252–259): 15–20 linhas à mão, caneta preta/azul-escura. Corrija pela grade do edital (precisão, clareza, coerência, objetividade, organização, gramática)."
+    },
+    {
+      "date": "2026-12-21",
+      "display": "21/12/2026",
+      "weekday": "segunda-feira",
+      "week": 9,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Penal",
+      "task": "★ CPP arts. 351–358: citação por mandado, requisitos, precatória."
+    },
+    {
+      "date": "2026-12-22",
+      "display": "22/12/2026",
+      "weekday": "terça-feira",
+      "week": 9,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Civil",
+      "task": "CC arts. 185–201 e 212–215: atos ilícitos e prescrição; prova."
+    },
+    {
+      "date": "2026-12-23",
+      "display": "23/12/2026",
+      "weekday": "quarta-feira",
+      "week": 9,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Civil",
+      "task": "★ CPC arts. 236–246: cartas e citação (conceito, efeitos, exceções)."
+    },
+    {
+      "date": "2026-12-24",
+      "display": "24/12/2026",
+      "weekday": "quinta-feira",
+      "week": 9,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Constitucional",
+      "task": "CF arts. 6º–16: direitos sociais, nacionalidade, direitos políticos, partidos."
+    },
+    {
+      "date": "2026-12-25",
+      "display": "25/12/2026",
+      "weekday": "sexta-feira",
+      "week": 9,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Penal",
+      "task": "CP arts. 311-A e 312–317: fraude em certames; peculado, concussão, corrupção passiva."
+    },
+    {
+      "date": "2026-12-26",
+      "display": "26/12/2026",
+      "weekday": "sábado",
+      "week": 9,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Normas da Corregedoria",
+      "task": "★ Tomo I, Cap. VII, arts. 1.041–1.065."
+    },
+    {
+      "date": "2026-12-27",
+      "display": "27/12/2026",
+      "weekday": "domingo",
+      "week": 9,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Discursiva",
+      "task": "Responda 1 questão sobre penhora e impenhorabilidades (CPC 831–846): 15–20 linhas à mão, caneta preta/azul-escura. Corrija pela grade do edital (precisão, clareza, coerência, objetividade, organização, gramática)."
+    },
+    {
+      "date": "2026-12-28",
+      "display": "28/12/2026",
+      "weekday": "segunda-feira",
+      "week": 10,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Legislação Especial",
+      "task": "Lei estadual 11.608/2003 (taxa judiciária): leitura integral, 1ª metade."
+    },
+    {
+      "date": "2026-12-29",
+      "display": "29/12/2026",
+      "weekday": "terça-feira",
+      "week": 10,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Matemática",
+      "task": "Regra de três simples e composta; médias; juros simples; equações do 1º e 2º graus."
+    },
+    {
+      "date": "2026-12-30",
+      "display": "30/12/2026",
+      "weekday": "quarta-feira",
+      "week": 10,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Raciocínio Lógico",
+      "task": "Estruturas lógicas e lógica de argumentação."
+    },
+    {
+      "date": "2026-12-31",
+      "display": "31/12/2026",
+      "weekday": "quinta-feira",
+      "week": 10,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Civil",
+      "task": "★ CPC arts. 247–259: modalidades de citação: correio, oficial de justiça (art. 249), hora certa (252–254), edital."
+    },
+    {
+      "date": "2027-01-01",
+      "display": "01/01/2027",
+      "weekday": "sexta-feira",
+      "week": 10,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Penal",
+      "task": "★ CPP arts. 359–363: comparecimento, citação por edital e hora certa, formação do processo."
+    },
+    {
+      "date": "2027-01-02",
+      "display": "02/01/2027",
+      "weekday": "sábado",
+      "week": 10,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Civil",
+      "task": "CC arts. 653–666, 1.169–1.173 e 1.196–1.203: mandato, preposto, posse."
+    },
+    {
+      "date": "2027-01-03",
+      "display": "03/01/2027",
+      "weekday": "domingo",
+      "week": 10,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Discursiva",
+      "task": "Responda 1 questão sobre prisão em flagrante e cumprimento de mandado de prisão (CPP 283–303): 15–20 linhas à mão, caneta preta/azul-escura. Corrija pela grade do edital (precisão, clareza, coerência, objetividade, organização, gramática)."
+    },
+    {
+      "date": "2027-01-04",
+      "display": "04/01/2027",
+      "weekday": "segunda-feira",
+      "week": 11,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Civil",
+      "task": "★ CPC arts. 269–275 (intimação; art. 275), 447–449, 453–454 e 502: testemunhas e coisa julgada."
+    },
+    {
+      "date": "2027-01-05",
+      "display": "05/01/2027",
+      "weekday": "terça-feira",
+      "week": 11,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Língua Portuguesa",
+      "task": "Concordância verbal e nominal; regência verbal e nominal."
+    },
+    {
+      "date": "2027-01-06",
+      "display": "06/01/2027",
+      "weekday": "quarta-feira",
+      "week": 11,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Penal",
+      "task": "★ CP arts. 319–327: crimes funcionais e art. 327 (conceito de funcionário público)."
+    },
+    {
+      "date": "2027-01-07",
+      "display": "07/01/2027",
+      "weekday": "quinta-feira",
+      "week": 11,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Penal",
+      "task": "CPP arts. 436–446 e 485–487: Tribunal do Júri (jurados, votação)."
+    },
+    {
+      "date": "2027-01-08",
+      "display": "08/01/2027",
+      "weekday": "sexta-feira",
+      "week": 11,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Informática",
+      "task": "MS Excel: planilhas, células, pastas, tabelas, gráficos e fórmulas."
+    },
+    {
+      "date": "2027-01-09",
+      "display": "09/01/2027",
+      "weekday": "sábado",
+      "week": 11,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Civil",
+      "task": "CPC arts. 528, 535–536, 538, 554, 560–563 e 626: cumprimento de sentença, entrega de coisa, possessórias, inventário."
+    },
+    {
+      "date": "2027-01-10",
+      "display": "10/01/2027",
+      "weekday": "domingo",
+      "week": 11,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Discursiva",
+      "task": "Responda 1 questão sobre busca e apreensão domiciliar (CPP 240–250; CF art. 5º, XI): 15–20 linhas à mão, caneta preta/azul-escura. Corrija pela grade do edital (precisão, clareza, coerência, objetividade, organização, gramática)."
+    },
+    {
+      "date": "2027-01-11",
+      "display": "11/01/2027",
+      "weekday": "segunda-feira",
+      "week": 12,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Constitucional",
+      "task": "CF arts. 18 e 37–41: organização político-administrativa, Administração Pública, servidores."
+    },
+    {
+      "date": "2027-01-12",
+      "display": "12/01/2027",
+      "weekday": "terça-feira",
+      "week": 12,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Civil",
+      "task": "CC arts. 1.431–1.432, 1.442, 1.444–1.447, 1.451, 1.461 e 1.467–1.472: penhor."
+    },
+    {
+      "date": "2027-01-13",
+      "display": "13/01/2027",
+      "weekday": "quarta-feira",
+      "week": 12,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Normas da Corregedoria",
+      "task": "★ Tomo I, Cap. VII, arts. 1.066–1.091-A."
+    },
+    {
+      "date": "2027-01-14",
+      "display": "14/01/2027",
+      "weekday": "quinta-feira",
+      "week": 12,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Penal",
+      "task": "CPP arts. 513–518, 563–570 e 593: crimes de responsabilidade de funcionários, nulidades, apelação."
+    },
+    {
+      "date": "2027-01-15",
+      "display": "15/01/2027",
+      "weekday": "sexta-feira",
+      "week": 12,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Civil",
+      "task": "★ CPC arts. 695, 751, 782, 795 e 806–807: citação em família e interdição; atos executivos cumpridos pelo oficial (art. 782); entrega de coisa."
+    },
+    {
+      "date": "2027-01-16",
+      "display": "16/01/2027",
+      "weekday": "sábado",
+      "week": 12,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Administrativo",
+      "task": "Lei 10.261/1968: arts. 241–243 e 251; Lei 8.429/1992: arts. 9º e 13."
+    },
+    {
+      "date": "2027-01-17",
+      "display": "17/01/2027",
+      "weekday": "domingo",
+      "week": 12,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Discursiva",
+      "task": "Responda 1 questão sobre resistência, desobediência e desacato (CP 329–331): 15–20 linhas à mão, caneta preta/azul-escura. Corrija pela grade do edital (precisão, clareza, coerência, objetividade, organização, gramática)."
+    },
+    {
+      "date": "2027-01-18",
+      "display": "18/01/2027",
+      "weekday": "segunda-feira",
+      "week": 13,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Penal",
+      "task": "★ CP arts. 328–333, 336 e 337: usurpação, resistência, desobediência, desacato, tráfico de influência, corrupção ativa; inutilização de edital e de documento."
+    },
+    {
+      "date": "2027-01-19",
+      "display": "19/01/2027",
+      "weekday": "terça-feira",
+      "week": 13,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Civil",
+      "task": "★ CPC arts. 827–836: execução por quantia, citação do executado, arresto, penhora e impenhorabilidades (833, 835)."
+    },
+    {
+      "date": "2027-01-20",
+      "display": "20/01/2027",
+      "weekday": "quarta-feira",
+      "week": 13,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Língua Portuguesa",
+      "task": "Colocação pronominal, crase e pontuação."
+    },
+    {
+      "date": "2027-01-21",
+      "display": "21/01/2027",
+      "weekday": "quinta-feira",
+      "week": 13,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Civil",
+      "task": "CC arts. 1.728, 1.767, 1.775–1.778 e 1.997: tutela, curatela, responsabilidade da herança."
+    },
+    {
+      "date": "2027-01-22",
+      "display": "22/01/2027",
+      "weekday": "sexta-feira",
+      "week": 13,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Penal",
+      "task": "CPP arts. 647–654 (habeas corpus), 762–763, 792, 798 e 798-A: leia o texto legal e anote as regras."
+    },
+    {
+      "date": "2027-01-23",
+      "display": "23/01/2027",
+      "weekday": "sábado",
+      "week": 13,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Legislação Especial",
+      "task": "Lei estadual 11.608/2003: leitura integral, 2ª metade."
+    },
+    {
+      "date": "2027-01-24",
+      "display": "24/01/2027",
+      "weekday": "domingo",
+      "week": 13,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Discursiva",
+      "task": "Responda 1 questão sobre intimação e deveres do oficial de justiça (CPC 154, 269–275): 15–20 linhas à mão, caneta preta/azul-escura. Corrija pela grade do edital (precisão, clareza, coerência, objetividade, organização, gramática)."
+    },
+    {
+      "date": "2027-01-25",
+      "display": "25/01/2027",
+      "weekday": "segunda-feira",
+      "week": 14,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Normas da Corregedoria",
+      "task": "Tomo I: Cap. X, Seção III, arts. 1.137–1.139; Cap. XI, Seção VII, arts. 1.245 e 1.247."
+    },
+    {
+      "date": "2027-01-26",
+      "display": "26/01/2027",
+      "weekday": "terça-feira",
+      "week": 14,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Civil",
+      "task": "★ CPC arts. 837–846: formas de penhora, auto de penhora, intimação, arrombamento e reforço policial."
+    },
+    {
+      "date": "2027-01-27",
+      "display": "27/01/2027",
+      "weekday": "quarta-feira",
+      "week": 14,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Constitucional",
+      "task": "CF arts. 92–99, 125, 127 e 134: Judiciário, Justiça estadual, Ministério Público, Defensoria."
+    },
+    {
+      "date": "2027-01-28",
+      "display": "28/01/2027",
+      "weekday": "quinta-feira",
+      "week": 14,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Atualidades + LBI",
+      "task": "Lei 13.146/2015 (LBI): arts. 79–87."
+    },
+    {
+      "date": "2027-01-29",
+      "display": "29/01/2027",
+      "weekday": "sexta-feira",
+      "week": 14,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Direito Penal",
+      "task": "CP arts. 339–347, 357 e 359: denunciação caluniosa, falso testemunho, coação, fraude processual; exploração de prestígio; desobediência a decisão judicial (art. 359)."
+    },
+    {
+      "date": "2027-01-30",
+      "display": "30/01/2027",
+      "weekday": "sábado",
+      "week": 14,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Processo Penal",
+      "task": "★ Lei 9.099/1995: arts. 1º, 2º, 8º, 9º, 18, 19 (cível) e 60–62, 66–68 (criminal; citação e intimação no art. 66)."
+    },
+    {
+      "date": "2027-01-31",
+      "display": "31/01/2027",
+      "weekday": "domingo",
+      "week": 14,
+      "phase": "Fase 1 — Primeira passada e revisão semanal",
+      "subject": "Discursiva",
+      "task": "Responda 1 questão sobre peculado, concussão e corrupção passiva (CP 312–317): 15–20 linhas à mão, caneta preta/azul-escura. Corrija pela grade do edital (precisão, clareza, coerência, objetividade, organização, gramática)."
+    },
+    {
+      "date": "2027-02-01",
+      "display": "01/02/2027",
+      "weekday": "segunda-feira",
+      "week": 15,
+      "phase": "Transição — Fechamento do conteúdo e revisões",
+      "subject": "Matemática",
+      "task": "Sistemas de 1º grau; tabelas e gráficos; medidas; geometria e Pitágoras; situações-problema."
+    },
+    {
+      "date": "2027-02-02",
+      "display": "02/02/2027",
+      "weekday": "terça-feira",
+      "week": 15,
+      "phase": "Transição — Fechamento do conteúdo e revisões",
+      "subject": "Raciocínio Lógico",
+      "task": "Diagramas lógicos e sequências numéricas/figurais."
+    },
+    {
+      "date": "2027-02-03",
+      "display": "03/02/2027",
+      "weekday": "quarta-feira",
+      "week": 15,
+      "phase": "Transição — Fechamento do conteúdo e revisões",
+      "subject": "Direito Civil",
+      "task": "Decreto-Lei 4.657/1942 (LINDB): leitura integral."
+    },
+    {
+      "date": "2027-02-04",
+      "display": "04/02/2027",
+      "weekday": "quinta-feira",
+      "week": 15,
+      "phase": "Transição — Fechamento do conteúdo e revisões",
+      "subject": "Processo Civil",
+      "task": "★ CPC arts. 870–875 (avaliação) e 994, 1.001, 1.003, 1.009, 1.010, 1.015, 1.022 (recursos)."
+    },
+    {
+      "date": "2027-02-05",
+      "display": "05/02/2027",
+      "weekday": "sexta-feira",
+      "week": 15,
+      "phase": "Transição — Fechamento do conteúdo e revisões",
+      "subject": "Informática",
+      "task": "MS Teams, OneDrive, correio eletrônico e Internet (URL, links, busca, impressão)."
+    },
+    {
+      "date": "2027-02-06",
+      "display": "06/02/2027",
+      "weekday": "sábado",
+      "week": 15,
+      "phase": "Transição — Fechamento do conteúdo e revisões",
+      "subject": "Direito Penal",
+      "task": "Revisão por questões: CP arts. 1º–12, 100–121, 129, 150, 154 e 293–317; refaça os erros."
+    },
+    {
+      "date": "2027-02-07",
+      "display": "07/02/2027",
+      "weekday": "domingo",
+      "week": 15,
+      "phase": "Transição — Fechamento do conteúdo e revisões",
+      "subject": "Mini-simulado",
+      "task": "35 questões mistas na proporção do edital em 50 min; 10 min para classificar erros (conteúdo, leitura apressada, dúvida)."
+    },
+    {
+      "date": "2027-02-08",
+      "display": "08/02/2027",
+      "weekday": "segunda-feira",
+      "week": 16,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "★ Núcleo do cargo",
+      "task": "Revisão: CP arts. 319–347, 357 e 359 (funcionais, resistência, desacato, art. 327)."
+    },
+    {
+      "date": "2027-02-09",
+      "display": "09/02/2027",
+      "weekday": "terça-feira",
+      "week": 16,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "Processo Penal",
+      "task": "Revisão por questões: CPP arts. 24–74, 112, 125–131, 156, 185, 202–225."
+    },
+    {
+      "date": "2027-02-10",
+      "display": "10/02/2027",
+      "weekday": "quarta-feira",
+      "week": 16,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "★ Processo Penal",
+      "task": "Revisão: CPP 240–250, 274, 283–303, 351–372, 396–406; Lei 9.099 arts. 60–68."
+    },
+    {
+      "date": "2027-02-11",
+      "display": "11/02/2027",
+      "weekday": "quinta-feira",
+      "week": 16,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "Processo Civil",
+      "task": "Revisão por questões: CPC arts. 1º–143, 176–235."
+    },
+    {
+      "date": "2027-02-12",
+      "display": "12/02/2027",
+      "weekday": "sexta-feira",
+      "week": 16,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "★ Processo Civil",
+      "task": "Revisão: CPC arts. 149–155, 236–275 (citação e intimação); refaça um quadro de modalidades."
+    },
+    {
+      "date": "2027-02-13",
+      "display": "13/02/2027",
+      "weekday": "sábado",
+      "week": 16,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "★ Processo Civil",
+      "task": "Revisão: CPC arts. 695, 751, 782, 795, 806–846 e 870–875 (execução, penhora, avaliação)."
+    },
+    {
+      "date": "2027-02-14",
+      "display": "14/02/2027",
+      "weekday": "domingo",
+      "week": 16,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "Discursiva",
+      "task": "Responda 2 questões (30 min cada) sobre avaliação de bens e atos executivos (CPC 782, 870–875): 15–20 linhas à mão, caneta preta/azul-escura. Corrija pela grade do edital (precisão, clareza, coerência, objetividade, organização, gramática)."
+    },
+    {
+      "date": "2027-02-15",
+      "display": "15/02/2027",
+      "weekday": "segunda-feira",
+      "week": 17,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "Processo Civil",
+      "task": "Revisão: CPC arts. 447–454, 502, 528–563, 626, recursos (994–1.022); Lei 9.099 arts. 8º, 9º, 18, 19."
+    },
+    {
+      "date": "2027-02-16",
+      "display": "16/02/2027",
+      "weekday": "terça-feira",
+      "week": 17,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "★ Normas da Corregedoria",
+      "task": "Revisão por questões: Cap. VII, arts. 994–1.040; releia o que errou."
+    },
+    {
+      "date": "2027-02-17",
+      "display": "17/02/2027",
+      "weekday": "quarta-feira",
+      "week": 17,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "★ Normas da Corregedoria",
+      "task": "Revisão por questões: Cap. VII, arts. 1.041–1.091-A."
+    },
+    {
+      "date": "2027-02-18",
+      "display": "18/02/2027",
+      "weekday": "quinta-feira",
+      "week": 17,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "Normas + Legislação Especial",
+      "task": "Revisão: Normas Caps. I, III, IV, X e XI; Lei 6.830, Res. CNJ 354, Lei 11.608."
+    },
+    {
+      "date": "2027-02-19",
+      "display": "19/02/2027",
+      "weekday": "sexta-feira",
+      "week": 17,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "★ Núcleo do cargo",
+      "task": "Bateria integrada: 30 questões de citação, intimação, penhora, avaliação, prisão e busca (CPC + CPP + Normas)."
+    },
+    {
+      "date": "2027-02-20",
+      "display": "20/02/2027",
+      "weekday": "sábado",
+      "week": 17,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "Direito Constitucional",
+      "task": "Revisão por questões: CF arts. 1º–16, 18, 37–41, 92–99, 125, 127, 134."
+    },
+    {
+      "date": "2027-02-21",
+      "display": "21/02/2027",
+      "weekday": "domingo",
+      "week": 17,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "Mini-simulado",
+      "task": "35 questões mistas na proporção do edital em 50 min; 10 min para classificar erros (conteúdo, leitura apressada, dúvida)."
+    },
+    {
+      "date": "2027-02-22",
+      "display": "22/02/2027",
+      "weekday": "segunda-feira",
+      "week": 18,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "Direito Administrativo",
+      "task": "Revisão: Lei 10.261/1968 (artigos do edital) e Lei 8.429/1992 arts. 9º e 13."
+    },
+    {
+      "date": "2027-02-23",
+      "display": "23/02/2027",
+      "weekday": "terça-feira",
+      "week": 18,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "Direito Civil",
+      "task": "Revisão por questões: CC arts. 1º–201 e 212–215."
+    },
+    {
+      "date": "2027-02-24",
+      "display": "24/02/2027",
+      "weekday": "quarta-feira",
+      "week": 18,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "Direito Civil",
+      "task": "Revisão: CC arts. 653–666, 1.169–1.203, 1.431–1.472, 1.728–1.997 e LINDB."
+    },
+    {
+      "date": "2027-02-25",
+      "display": "25/02/2027",
+      "weekday": "quinta-feira",
+      "week": 18,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "Língua Portuguesa",
+      "task": "Bateria cronometrada de 15 questões VUNESP (interpretação); classifique cada erro."
+    },
+    {
+      "date": "2027-02-26",
+      "display": "26/02/2027",
+      "weekday": "sexta-feira",
+      "week": 18,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "Língua Portuguesa",
+      "task": "Bateria de gramática (concordância, regência, crase, pontuação, colocação); anote a regra de cada erro."
+    },
+    {
+      "date": "2027-02-27",
+      "display": "27/02/2027",
+      "weekday": "sábado",
+      "week": 18,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "Matemática + Lógica",
+      "task": "Bateria de 10 questões de Matemática e 8 de Lógica; refaça as erradas mostrando o raciocínio."
+    },
+    {
+      "date": "2027-02-28",
+      "display": "28/02/2027",
+      "weekday": "domingo",
+      "week": 18,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "Discursiva",
+      "task": "Responda 2 questões (30 min cada) sobre citação no processo penal (CPP 351–363): 15–20 linhas à mão, caneta preta/azul-escura. Corrija pela grade do edital (precisão, clareza, coerência, objetividade, organização, gramática)."
+    },
+    {
+      "date": "2027-03-01",
+      "display": "01/03/2027",
+      "weekday": "segunda-feira",
+      "week": 19,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "Informática",
+      "task": "Revisão prática de Windows, Word, Excel, Teams, OneDrive, e-mail e Internet; 15 questões."
+    },
+    {
+      "date": "2027-03-02",
+      "display": "02/03/2027",
+      "weekday": "terça-feira",
+      "week": 19,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "Atualidades",
+      "task": "Fatos políticos, econômicos, sociais e culturais do 1º semestre de 2026 (nacionais e internacionais); 10 questões."
+    },
+    {
+      "date": "2027-03-03",
+      "display": "03/03/2027",
+      "weekday": "quarta-feira",
+      "week": 19,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "Atualidades",
+      "task": "Fatos recentes (jul–fev) e revisão da LBI arts. 1º–13, 34–38, 79–87."
+    },
+    {
+      "date": "2027-03-04",
+      "display": "04/03/2027",
+      "weekday": "quinta-feira",
+      "week": 19,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "Pontos fracos",
+      "task": "Os 3 assuntos com pior aproveitamento no caderno de erros: leia a lei e refaça 25 questões."
+    },
+    {
+      "date": "2027-03-05",
+      "display": "05/03/2027",
+      "weekday": "sexta-feira",
+      "week": 19,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "Pontos fracos",
+      "task": "Mais 3 assuntos com pior aproveitamento; questões de provas anteriores da VUNESP."
+    },
+    {
+      "date": "2027-03-06",
+      "display": "06/03/2027",
+      "weekday": "sábado",
+      "week": 19,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "Pontos fracos",
+      "task": "Reincidências: erros que se repetem 2 ou mais vezes; explique cada regra com suas palavras."
+    },
+    {
+      "date": "2027-03-07",
+      "display": "07/03/2027",
+      "weekday": "domingo",
+      "week": 19,
+      "phase": "Fase 2 — Revisão, simulados e discursiva",
+      "subject": "Mini-simulado",
+      "task": "35 questões mistas na proporção do edital em 50 min; 10 min para classificar erros (conteúdo, leitura apressada, dúvida)."
+    },
+    {
+      "date": "2027-03-08",
+      "display": "08/03/2027",
+      "weekday": "segunda-feira",
+      "week": 20,
+      "phase": "Semana da prova",
+      "subject": "★ Núcleo do cargo",
+      "task": "Lei seca final: CPC 149–155, 236–275, 782, 827–875; CPP 351–372; Normas Cap. VII."
+    },
+    {
+      "date": "2027-03-09",
+      "display": "09/03/2027",
+      "weekday": "terça-feira",
+      "week": 20,
+      "phase": "Semana da prova",
+      "subject": "Penal + Processo Penal",
+      "task": "Lei seca final: artigos marcados de CP e CPP; refaça questões erradas."
+    },
+    {
+      "date": "2027-03-10",
+      "display": "10/03/2027",
+      "weekday": "quarta-feira",
+      "week": 20,
+      "phase": "Semana da prova",
+      "subject": "Civil + Constitucional + Administrativo",
+      "task": "Lei seca final: artigos marcados; 20 questões mistas."
+    },
+    {
+      "date": "2027-03-11",
+      "display": "11/03/2027",
+      "weekday": "quinta-feira",
+      "week": 20,
+      "phase": "Semana da prova",
+      "subject": "Legislação Especial + Normas",
+      "task": "Releitura dos artigos marcados; pergunte-se o que a banca cobraria."
+    },
+    {
+      "date": "2027-03-12",
+      "display": "12/03/2027",
+      "weekday": "sexta-feira",
+      "week": 20,
+      "phase": "Semana da prova",
+      "subject": "Revisão leve",
+      "task": "Releia o caderno de erros; confira local e horário no edital de convocação, documento oficial com foto e caneta esferográfica preta; relógio e celular ficam lacrados. Durma cedo."
+    },
+    {
+      "date": "2027-03-13",
+      "display": "13/03/2027",
+      "weekday": "sábado",
+      "week": 20,
+      "phase": "Semana da prova",
+      "subject": "Revisão final",
+      "task": "Releia o caderno de erros (sem conteúdo novo). Confira local e horário no edital de convocação, documento oficial com foto e caneta esferográfica preta; relógio e celular ficam lacrados. Durma cedo."
+    }
+  ],
+  "syllabus": [
+    {
+      "title": "Língua Portuguesa — 15 questões",
+      "items": [
+        "Análise, compreensão e interpretação de textos verbais, não verbais, literários e não literários.",
+        "Informações literais e inferências possíveis; ponto de vista do autor.",
+        "Estruturação do texto: relações entre ideias e recursos de coesão.",
+        "Significação contextual de palavras e expressões; sinônimos e antônimos; sentido próprio e figurado.",
+        "Classes de palavras e emprego/sentido: substantivo, adjetivo, artigo, numeral, pronome, verbo, advérbio, preposição e conjunção.",
+        "Concordância verbal e nominal; regência verbal e nominal; colocação pronominal; crase; pontuação."
+      ]
+    },
+    {
+      "title": "Direito Penal — Código Penal",
+      "items": [
+        "Arts. 1º–12; 100–106; 107–121; 129; 150; 154; 293–305; 307; 308; 311-A; 312–317; 319–333; 336–337; 339–347; 357 e 359."
+      ]
+    },
+    {
+      "title": "Direito Processual Penal — CPP e Lei 9.099/1995",
+      "items": [
+        "CPP arts. 24–42; 61–74; 112; 125–131; 156; 185; 202–204; 218–225; 240–250; 274; 283–303; 351–363; 370–372; 396–396-A; 406; 436–446; 485–487; 513–518; 563–570; 593; 647–654; 762–763; 792; 798 e 798-A.",
+        "Lei 9.099/1995: arts. 1º, 2º, 60–62 e 66–68."
+      ]
+    },
+    {
+      "title": "Direito Processual Civil — CPC e Lei 9.099/1995",
+      "items": [
+        "CPC arts. 1º–11; 13–18; 21–27; 36; 42–53; 64–66; 70–85; 98–102; 110–111; 125–135; 139–143; 149–155; 159–161; 176–199; 203–259; 269–275; 447–449; 453–454; 502; 528; 535–536; 538; 554; 560–563; 626; 695; 751; 782; 795; 806–807; 827–846; 870–875; 994; 1.001; 1.003; 1.009; 1.010; 1.015; 1.022.",
+        "Lei 9.099/1995: arts. 8º, 9º, 18 e 19."
+      ]
+    },
+    {
+      "title": "Direito Constitucional — Constituição Federal",
+      "items": [
+        "Arts. 1º–16; 18; 37–41; 92–99; 125; 127 e 134."
+      ]
+    },
+    {
+      "title": "Direito Administrativo",
+      "items": [
+        "Lei estadual 10.261/1968: arts. 1º, 3º, 4º, 11, 13, 14, 46, 47, 57, 78, 110, 120, 127, 176, 241–243 e 251.",
+        "Lei federal 8.429/1992: arts. 9º e 13."
+      ]
+    },
+    {
+      "title": "Direito Civil — Código Civil e LINDB",
+      "items": [
+        "CC arts. 1º–25; 40–45; 49–50; 53; 62; 70–103; 115–120; 138–159; 166–201; 212–215; 653–666; 1.169–1.173; 1.196–1.203; 1.431–1.432; 1.442; 1.444–1.447; 1.451; 1.461; 1.467–1.472; 1.728; 1.767; 1.775–1.778; 1.997.",
+        "Decreto-Lei 4.657/1942 (LINDB)."
+      ]
+    },
+    {
+      "title": "Legislação Especial e Normas da Corregedoria",
+      "items": [
+        "Lei 6.830/1980: arts. 1º, 2º, 7º, 8º, 11 e 37.",
+        "Resolução CNJ 354/2020: arts. 1º e 8º–10.",
+        "Lei estadual 11.608/2003.",
+        "Normas Judiciais da CGJ/TJSP, Tomo I: Cap. I, arts. 1º–4º; Cap. III, Seção III, art. 33; Seção V, arts. 47 e 49; Seção XI, arts. 105–110; Cap. IV, Seção III, art. 196, XX; Seção IV, art. 282, §1º; Seção VI, arts. 310 e 315; Seção XII, art. 410; Seção XIII, arts. 436 e 436-A; Seção XIV, arts. 439, 440 e 440-A; Cap. VII, arts. 994–1.091-A; Cap. X, Seção III, arts. 1.137–1.139; Cap. XI, Seção VII, arts. 1.245 e 1.247."
+      ]
+    },
+    {
+      "title": "Atualidades e Lei Brasileira de Inclusão",
+      "items": [
+        "Fatos políticos, econômicos, sociais e culturais nacionais e internacionais divulgados a partir do 1º semestre de 2026 na mídia local e/ou nacional.",
+        "Lei 13.146/2015: arts. 1º–13; 34–38; 79–87."
+      ]
+    },
+    {
+      "title": "Matemática e Raciocínio Lógico — 7 questões",
+      "items": [
+        "Matemática (3 questões): operações com números reais; MMC/MDC; razão e proporção; porcentagem; regra de três simples e composta; média aritmética simples e ponderada; juros simples; equações de 1º e 2º graus; sistema de equações de 1º grau; tabelas e gráficos; sistemas de medidas usuais; geometria (forma, perímetro, área, volume, ângulo, Pitágoras); situações-problema.",
+        "Raciocínio lógico (4 questões): relações arbitrárias entre pessoas, lugares, coisas e eventos fictícios; dedução de informações; avaliação das condições de uma estrutura; sequências numéricas ou figurais; estruturas lógicas, lógica de argumentação e diagramas lógicos."
+      ]
+    },
+    {
+      "title": "Informática — 5 questões",
+      "items": [
+        "Windows 10 ou superior: pastas, diretórios, arquivos, atalhos, área de trabalho, área de transferência, manipulação de arquivos/pastas, menus, programas/aplicativos e integração com Microsoft 365.",
+        "MS Word: estrutura, edição/formatação, cabeçalhos, parágrafos, fontes, colunas, marcadores, tabelas, impressão, quebras, numeração de páginas, legendas, índices, objetos, campos predefinidos e caixas de texto.",
+        "MS Excel: estrutura de planilhas, células, linhas, colunas, pastas e gráficos, tabelas/gráficos e fórmulas.",
+        "MS Teams: chats, chamadas de áudio/vídeo, grupos, trabalho em equipe com Word, Excel, PowerPoint, SharePoint e OneNote, agendamento e gravação de reuniões.",
+        "OneDrive: armazenamento e compartilhamento de arquivos. Correio eletrônico: preparo/envio de mensagens e anexos. Internet: navegação, URL, links, sites, busca e impressão de páginas."
+      ]
+    }
+  ]
+}
